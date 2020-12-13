@@ -9,6 +9,5 @@ songs features may have the data like, the extent of excitement, extent of  roma
 while user features have the data like, how much the user like excitement in song, how much the user like romance in the song, etc
 
 
-Only the prediction is shown in Recommend_Me file, Training Code is not been disclosed yet, because it is still under progress.
 -> Upcoming Recommendation would be based of user profile and Song profile clusters.
 -> Autogeneration of playlist according to user's mood
